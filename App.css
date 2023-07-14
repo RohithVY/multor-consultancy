@@ -471,6 +471,13 @@ body::-webkit-scrollbar {
     align-items: flex-start;
   }
 
+  .testimonials__header{
+    margin: 0;
+    text-align: center;
+    padding: 0 10%;
+    line-height: 2rem;
+  }
+
   .card__container {
     width: 80%;
     margin-top: 3rem;
@@ -533,5 +540,6 @@ body::-webkit-scrollbar {
     gap: 1rem;
     flex-direction: column;
     padding-top: 2rem;
+    text-align: center;
   }
 }

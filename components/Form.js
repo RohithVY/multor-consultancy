@@ -21,13 +21,13 @@ const Form = () => {
         <input
           type="text"
           className="form__inp"
-          placeholder="Last Name*"
+          placeholder="Email*"
           required
         />
         <input
           type="text"
           className="form__inp"
-          placeholder="Last Name*"
+          placeholder="Phone*"
           required
         />
         <select name="dropdown" className="form__inp" id="form__dropdown">
