@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Header from "./components/Header";
 import "./App.css";
-import Form from "./components/form";
+import Form from "./components/FormComponent";
 import VisitationVideo from "./components/VisitationVideo";
 import Testimonials from "./components/Testimonials";
 import Features from "./components/Features";
