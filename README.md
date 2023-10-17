@@ -1,6 +1,9 @@
 # Multor Consultancy
 Multor Consultancy is a business consulting firm that provides services to help businesses improve their performance and achieve their goals
 
+![image](https://github.com/RohithVY/multor-consultancy/assets/110025038/f964c920-23e5-43d0-a549-d3fbbf154661)
+
+
 # Project Description
 - A demo website built with ReactJS, CSS, and Parcel
 - Chai and Mocha were used to create and run the tests.
